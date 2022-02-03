@@ -1,1 +1,2 @@
 Why is this file empty?
+Now this file is not empty
